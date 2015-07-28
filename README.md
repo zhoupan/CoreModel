@@ -1,4 +1,8 @@
 # CoreModel
 
-[![Join the chat at https://gitter.im/colemancda/CoreModel](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/colemancda/CoreModel?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-Model layer for ObjFW
+[![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
+
+Swift ORM wrapper. 
+
+Wraps Core Data (Darwin only) and other ORMs into a familiar interface. Used for cross-platform Swift development. 
+Built with Swift 2.0 and targeting OS X, iOS and, Linux.
